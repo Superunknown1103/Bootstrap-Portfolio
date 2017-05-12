@@ -1,0 +1,52 @@
+html{
+	position:relative;
+	min-height:100%;
+}
+
+body{
+	padding-bottom:100px;
+	background: url("background.png")
+}
+.contactlogo{
+	width:50px;
+	padding: 2px;
+}
+
+.footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+  	line-height: 60px;
+    background-color: #3e3f3a;
+    color: #ffffff;
+}
+
+.headerx{
+	float:left;
+	font-size: 18px;
+	color: #ffffff;
+	background-color: #4aaaa5;
+	padding: 12px 0px 12px 0px;
+	width: 200px;
+	text-align: center;
+	position: absolute;
+	top:150px;
+	left:20px;
+}
+.headerx:hover{
+	text-decoration: underline;
+}
+
+.paddingBot{
+	padding-bottom:20px;
+}
+
+.portfolioElement{
+	padding: 10px 20px 10px 20px;
+	position:relative;
+	float:left;
+}
+
+
